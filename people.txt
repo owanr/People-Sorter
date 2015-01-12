@@ -1,0 +1,10 @@
+Rowling,J.K.,1965,7,31
+Bunny,Bugs,1940,7,27
+Obama,Barack,1961,8,4
+Gaga,Lady,1986,3,28
+X,Malcolm,1925,5,19
+Bush,George,1946,7,6
+Merkel,Angela,1954,7,17
+Bush,Vannevar,1890,3,11
+Bush,George,1924,6,12
+Madonna,,1958,8,16
